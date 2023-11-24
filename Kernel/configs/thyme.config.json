@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Proton）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "name": "XiaomiPad（nabu）",
+      "repo": "https://github.com/AwakenOS-Devices/android_kernel_xiaomi_nabu",
       "branch": "lineage-20.0",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
