@@ -46,11 +46,11 @@
   },
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Google）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "XiaomiPad（nabu）",
+      "repo": "https://github.com/AwakenOS-Devices/android_kernel_xiaomi_nabu",
+      "branch": "triton",
+      "device": "nabu",
+      "defconfig": "nabu_defconfig"
     },
     "toolchains": [
       {
@@ -84,7 +84,7 @@
       "release": true,
       "custom": {
         "repo": "https://github.com/easterNday/AnyKernel3/",
-        "branch": "thyme"
+        "branch": "nabu"
       }
     },
     "enableKernelSU": true,
