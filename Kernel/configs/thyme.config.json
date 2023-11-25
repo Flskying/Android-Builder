@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "XiaomiPad（nabu）",
-      "repo": "https://github.com/AwakenOS-Devices/android_kernel_xiaomi_nabu",
-      "branch": "triton",
+      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_nabu",
+      "branch": "arrow-13.1",
       "device": "nabu",
-      "defconfig": "nabu_defconfig"
+      "defconfig": "nabu_user_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
@@ -47,10 +47,10 @@
   {
     "kernelSource": {
       "name": "XiaomiPad（nabu）",
-      "repo": "https://github.com/AwakenOS-Devices/android_kernel_xiaomi_nabu",
-      "branch": "triton",
+      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_nabu",
+      "branch": "arrow-13.1",
       "device": "nabu",
-      "defconfig": "nabu_defconfig"
+      "defconfig": "nabu_user_defconfig"
     },
     "toolchains": [
       {
